@@ -2,11 +2,12 @@
 
 ## Basic Information
 
-### This is a Machine Learning project that recognizes the hand gesture. Made using Python, Tensorflow, OpenCV, Keras
+### This is a Machine Learning project that recognizes the hand gesture. Made using Python, Tensorflow, OpenCV, Keras and Mediapipe
 
 ## Modules Required
 - OpenCV => ```pip install opencv-python```
 - Tensorflow => ```pip install tensorflow```
+- Mediapipe => ```pip install mediapipe```
 - Keras (installed with tensorflow)
 
 ## How to run the program
