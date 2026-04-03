@@ -1,4 +1,5 @@
-# Hand-Recognition-Tensorflow Deprecated
+# DEPRECATED
+## Hand-Recognition-Tensorflow
 
 ## Basic Information
 
